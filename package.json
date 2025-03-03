@@ -1,0 +1,23 @@
+{
+  "name": "epic-sticker-shop",
+  "version": "1.0.0",
+  "description": "Website for sticker shop using React JS and Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GWMDhananjaya/Epic-sticker-shop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GWMDhananjaya/Epic-sticker-shop/issues"
+  },
+  "homepage": "https://github.com/GWMDhananjaya/Epic-sticker-shop#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
